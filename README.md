@@ -1,4 +1,4 @@
-Tic-Tac-Toe is a timeless game that many of us have enjoyed in our lives. For this project, I set out to create a C program that not only allows you to play this classic game but also introduces a few exciting features to enhance the experience.
+Welcome to Tic-Tac-Toe in the console! I've developed a classic game where you can enjoy single-player matches against an AI or challenge your friends in multiplayer mode. It's a great way to practice C programming and have some fun! 💻
 
 Game Modes:
 The Tic-Tac-Toe Game offers two distinct modes to cater to different preferences:
